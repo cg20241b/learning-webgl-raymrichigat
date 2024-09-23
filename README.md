@@ -1,2 +1,2 @@
-# learning-webgl-hadziq
-learning-webgl-hadziq created by GitHub Classroom
+# learning-webgl-raymrichigat
+learning-webgl-raymrichigat created by GitHub Classroom
